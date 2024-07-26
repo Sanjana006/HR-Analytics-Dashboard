@@ -14,6 +14,7 @@ The development process began with the collection of data from HR systems, encom
   - Marketing: 15%
   - Technical Degree: 14%
   - Other: 5%
+  
   *Insight*: Employees with Life Sciences backgrounds have the highest attrition rate, highlighting the need for targeted retention strategies for this group.
 
 - **Attrition by Age**: 
@@ -22,6 +23,7 @@ The development process began with the collection of data from HR systems, encom
   - 36-45 years: 41
   - 46-55 years: 26
   - 55+ years: 8
+  
   *Insight*: The highest attrition is among employees aged 26-35, suggesting this demographic requires more engagement and career development opportunities.
 
 - **Attrition by Salary Slab**: 
