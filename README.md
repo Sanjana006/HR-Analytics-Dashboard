@@ -17,6 +17,7 @@ The development process began with the collection of data from HR systems, encom
   
   *Insight*: Employees with Life Sciences backgrounds have the highest attrition rate, highlighting the need for targeted retention strategies for this group.
 
+
 - **Attrition by Age**: 
   - 26-35 years: 111
   - 18-25 years: 43
@@ -26,12 +27,15 @@ The development process began with the collection of data from HR systems, encom
   
   *Insight*: The highest attrition is among employees aged 26-35, suggesting this demographic requires more engagement and career development opportunities.
 
+
 - **Attrition by Salary Slab**: 
   - Up to $5K: 158
   - $5K-$10K: 48
   - $10K-$15K: 18
   - $15K+: 5
+  
   *Insight*: Employees earning up to $5K experience the highest turnover, suggesting a correlation between lower salaries and higher attrition.
+
 
 - **Attrition by Years at Company**: 
   - 0-1 years: 57
@@ -45,7 +49,9 @@ The development process began with the collection of data from HR systems, encom
   - 8-9 years: 10
   - 9-10 years: 16
   - 10+ years: 2
+  
   *Insight*: Attrition peaks during the first year of employment, highlighting the need for improved onboarding and early engagement programs.
+
 
 - **Attrition by Job Role**: 
   - Laboratory Technician: 60
@@ -53,7 +59,9 @@ The development process began with the collection of data from HR systems, encom
   - Research Scientist: 44
   - Sales Representative: 33
   - Others: Varying
+  
   *Insight*: The highest attrition occurs among Laboratory Technicians and Sales Executives, suggesting these roles may need better support and career development opportunities.
+
 
 - **Attrition by Gender**: 
   - Male: 136
