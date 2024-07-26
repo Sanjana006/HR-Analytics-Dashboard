@@ -1,22 +1,21 @@
-### HR Analytics Dashboard Report
+# HR Analytics Dashboard Report
 
-#### Introduction
+## 1. Introduction
 This report presents the HR Analytics Dashboard developed using Power BI, aimed at providing comprehensive insights into employee attrition. The dashboard showcases key metrics such as the total number of employees (1416), the number of employees who have left (229), the attrition rate (16.2%), average age (37 years), average salary ($6.5K), and average tenure (7.0 years). 
 
-#### Problem Statement
+## 2. Problem Statement
 The organization is experiencing high employee attrition rates, impacting productivity, morale, and overall business performance. There is a need to understand the underlying causes of attrition through data analysis to develop effective retention strategies.
 
-#### Objective
+## 3. Objective
 To analyze employee attrition patterns and identify key factors influencing turnover, and subsequently develop data-driven strategies to improve employee retention and reduce attrition rates.
 
-#### Development Process
+## 4. Development Process
 The development process began with the collection of data from HR systems, encompassing employee demographics, job roles, salary information, and attrition records. This data was meticulously cleaned to ensure consistency and accuracy. Following this, a robust data model was created in Power BI that connected various data sources for seamless analysis. 
 
-#### Data Preprocessing
+## 5. Data Preprocessing
 I meticulously prepared the data for analysis. This involved cleaning up the dataset by handling missing values, correcting inconsistencies, and ensuring data uniformity. I transformed data types as needed to facilitate analysis and visualization. By diligently addressing these data quality issues, I created a solid foundation for building informative dashboards and extracting meaningful insights in Power BI.
 
-#### Use Cases
-### Use Cases Table
+## 6. Use Cases
 
 | **Use Case**                      | **Description**                                                                                     | **Outcome**                                          |
 |-----------------------------------|-----------------------------------------------------------------------------------------------------|------------------------------------------------------|
@@ -26,7 +25,7 @@ I meticulously prepared the data for analysis. This involved cleaning up the dat
 | Career Development Planning       | Identify high-attrition job roles and implement training and development programs.                  | Enhanced career growth and reduced turnover.         |
 | Gender-specific Retention Strategies| Evaluate attrition rates by gender and develop gender-specific retention strategies.                | Addressed gender disparities and improved retention. |
 
-#### Key Visualizations and Insights
+## 7. Key Visualizations and Insights
 
 - **Attrition by Education**: 
   - Life Sciences: 38%
@@ -88,5 +87,21 @@ I meticulously prepared the data for analysis. This involved cleaning up the dat
   - Female: 76
   *Insight*: There is a higher attrition rate among male employees compared to female employees, which may warrant a review of gender-specific retention strategies.
 
-#### Conclusion
+## 8. Requirements
+
+- Power BI
+- Microsoft Excel
+- HR metrics knowledge
+- Data visualization principles
+- Analytical skills
+- Critical thinking skills
+
+## 9. Installation
+
+Clone the repository to your local machine:
+```bash
+git clone https://github.com/Sanjana006/HR-Analytics-Dashboard.git
+```
+
+## 10. Conclusion
 The final dashboard was assembled by integrating these visualizations into an interactive and user-friendly interface, thoroughly tested for accuracy and reliability. This comprehensive HR Analytics Dashboard serves as a valuable tool for HR departments, enabling them to identify attrition patterns and implement data-driven strategies to enhance employee retention, improve job satisfaction, and boost overall organizational performance.
