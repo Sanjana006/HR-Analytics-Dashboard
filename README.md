@@ -1,5 +1,17 @@
 # HR Analytics Dashboard Report
 
+## Table of Contents
+1. [Introduction](#1-introduction)
+2. [Problem Statement](#2-problem-statement)
+3. [Objective](#3-objective)
+4. [Development Process](#4-development-process)
+5. [Data Preprocessing](#5-data-preprocessing)
+6. [Use Cases](#6-use-cases)
+7. [Key Visualizations and Insights](#7-key-visualizations-and-insights)
+8. [Requirements](#8-requirements)
+9. [Installation](#9-installation)
+10. [Conclusion](#10-conclusion)
+
 ## 1. Introduction
 This report presents the HR Analytics Dashboard developed using Power BI, aimed at providing comprehensive insights into employee attrition. The dashboard showcases key metrics such as the total number of employees (1416), the number of employees who have left (229), the attrition rate (16.2%), average age (37 years), average salary ($6.5K), and average tenure (7.0 years). 
 
